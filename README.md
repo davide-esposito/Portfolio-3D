@@ -52,7 +52,7 @@ Welcome to my portfolio! This is a showcase of my skills and projects, demonstra
 
 ## 🌐 Deployment
 
-This project is deployed on **Vercel** and can be accessed [here](https://budget-tracker-wheat-phi.vercel.app).
+This project is deployed on **Vercel** and can be accessed [here](https://portfolio-abrx5qc16-davides-projects-32f1ea91.vercel.app/).
 
 ---
 
