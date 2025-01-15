@@ -28,6 +28,7 @@ Welcome to my portfolio! This is a showcase of my skills and projects, demonstra
 
 - **ThreeJS:** For rendering and animating 3D models in a web environment.
 - **React Three Fiber:** A React-based library for integrating ThreeJS into modern applications.
+- **Vite:** Lightning-fast development build tool for modern web applications.
 - **Tailwind CSS:** A utility-first framework for fast and flexible styling.
 - **Framer Motion:** The leading library for animations in React applications.
 - **React:** To build reusable, scalable, and maintainable web components.
